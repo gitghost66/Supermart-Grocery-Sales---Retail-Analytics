@@ -1,0 +1,31 @@
+column,description
+Order ID,Unique order identifier
+Order Date,Date when order was placed
+Ship Date,Date when order was shipped
+Ship Mode,Shipping mode
+Customer ID,Unique customer identifier
+Customer Name,Full customer name
+Segment,Customer segment
+Country,Country of sale
+City,City of sale
+State,State of sale
+Region,Region of sale
+Postal Code,Postal code
+Market,Market
+Product ID,Unique product identifier
+Category,Top-level product category
+Sub-Category,Product sub-category
+Brand,Brand name
+Product Name,Full product name
+Sales Channel,Channel: Online/Offline
+Store ID,Store identifier
+Order Priority,Order priority
+Payment Mode,Payment mode
+Quantity,Units purchased
+Unit Price,Selling price per unit
+Discount,Discount fraction
+COGS,Cost of goods sold
+Sales,Total sales (after discount)
+Profit,Profit (Sales - COGS)
+Returned,Return flag
+Promo Applied,Promotion flag

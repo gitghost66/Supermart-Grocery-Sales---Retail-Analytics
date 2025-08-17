@@ -1,0 +1,9 @@
+
+project:
+  name: Supermart Grocery Sales – Retail Analytics
+  version: 1.0.0
+data:
+  raw: data/raw/supermart_sales.csv
+  processed: data/processed/supermart_sales_processed.csv
+modeling:
+  forecast_category: Beverages
